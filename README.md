@@ -6,7 +6,7 @@
 
 - Se crearon las relaciones presentadas en la resolución en 3FN (tercera forma normal).
 
-- Cine Paraíso proppone abrir una plataforma de streaming. Dicha plataforma funciona a través de subscripciones (que pueden ser mensuales o anuales), y es accesible mediante un usuario y una contraseña. En la primera versión, los usuarios pueden subscribirse a este servicio optando por alguno de los tres planes existentes:
+- Cine Paraíso propone abrir una plataforma de streaming. Dicha plataforma funciona a través de subscripciones (que pueden ser mensuales o anuales), y es accesible mediante un usuario y una contraseña. En la primera versión, los usuarios pueden subscribirse a este servicio optando por alguno de los tres planes existentes:
 
   - Plan gratuito (acceso restringido a 10 películas por mes).
   - Plan premium (acceso a algunas películas en cartelera).
